@@ -2,5 +2,5 @@
 *.mbot
 .git_old*/
 filelock
-Bot Store/
 System/
+Bot Store/
